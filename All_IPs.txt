@@ -1,6 +1,6 @@
-Nginx Instance 1 Public IP: 34.229.52.234
-Nginx Instance 1 Private IP: 10.0.58.147
-Nginx Instance 2 Public IP: 3.239.196.160
-Nginx Instance 2 Private IP: 10.0.71.219
-Apache Instance 1 Private IP: 10.0.25.93
-Apache Instance 2 Private IP: 10.0.39.235
+Nginx Instance 1 Public IP: 3.90.223.179
+Nginx Instance 1 Private IP: 10.0.0.6
+Nginx Instance 2 Public IP: 44.198.168.245
+Nginx Instance 2 Private IP: 10.0.2.183
+Apache Instance 1 Private IP: 10.0.1.220
+Apache Instance 2 Private IP: 10.0.3.137
